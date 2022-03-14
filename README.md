@@ -3,6 +3,7 @@ Designed with an executive end-user in mind, this dashboard showcases sales data
 
 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/VideoGameSales_16446022426090/MarioCo_Enterprises?%3Adisplay_count=n&%3Alanguage=en-GB&%3Aorigin=viz_share_link)
 
+
 <p align="center">
-  Static Preview:
+    Static Preview:
 </p>
