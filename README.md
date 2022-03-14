@@ -6,4 +6,5 @@ Designed with an executive end-user in mind, this dashboard showcases sales data
 
 <p align="center">
     Static Preview:
+    ![videogame](https://user-images.githubusercontent.com/90063554/158235831-db19a28c-2007-46a7-94c0-69e1cb2084d5.PNG)
 </p>
